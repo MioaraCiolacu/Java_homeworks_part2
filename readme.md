@@ -1,0 +1,1 @@
+This is my second part of homeworks from my course on Java programing language, IT Factory.
