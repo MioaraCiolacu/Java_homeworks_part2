@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-13T08:11:35 EEST" name="com.itfactory.BasketTest" finished-at="2023-05-13T08:11:35 EEST" duration-ms="70">
+    <groups>
+    </groups>
+    <test started-at="2023-05-13T08:11:35 EEST" name="Command line test" finished-at="2023-05-13T08:11:35 EEST" duration-ms="70">
+      <class name="com.itfactory.BasketTest">
+        <test-method signature="testAdaugaProdus()[pri:0, instance:com.itfactory.BasketTest@2fd66ad3]" started-at="2023-05-13T08:11:35 EEST" name="testAdaugaProdus" finished-at="2023-05-13T08:11:35 EEST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdaugaProdus -->
+        <test-method signature="testVerificaCalculSeparatProduse()[pri:0, instance:com.itfactory.BasketTest@2fd66ad3]" started-at="2023-05-13T08:11:35 EEST" name="testVerificaCalculSeparatProduse" finished-at="2023-05-13T08:11:35 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerificaCalculSeparatProduse -->
+        <test-method signature="testVerificaCalculTotal()[pri:0, instance:com.itfactory.BasketTest@2fd66ad3]" started-at="2023-05-13T08:11:35 EEST" name="testVerificaCalculTotal" finished-at="2023-05-13T08:11:35 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerificaCalculTotal -->
+        <test-method signature="testVerificaProduseSeparate()[pri:0, instance:com.itfactory.BasketTest@2fd66ad3]" started-at="2023-05-13T08:11:35 EEST" name="testVerificaProduseSeparate" finished-at="2023-05-13T08:11:35 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerificaProduseSeparate -->
+      </class> <!-- com.itfactory.BasketTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.itfactory.BasketTest -->
+</testng-results>
