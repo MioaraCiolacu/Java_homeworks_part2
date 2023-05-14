@@ -1,0 +1,69 @@
+[
+  {
+    "capacity": 200,
+    "isPaid": true,
+    "products": [
+      {
+        "name": "sampon",
+        "price": 20.50,
+        "isInStock": true
+      },
+      {
+        "name": "balsam",
+        "price": 10.20,
+        "isInStock": true
+      },
+      {
+        "name": "oja",
+        "price": 15.0,
+        "isInStock": true
+      },
+      {
+        "name": "rimel",
+        "price": 35.0,
+        "isInStock": false
+      },
+      {
+        "name": "fond de ten",
+        "price": 75,
+        "isInStock": true
+      },
+      {
+        "name": "fond de ten",
+        "price": 75,
+        "isInStock": true
+      },
+      {
+        "name": "creion contur",
+        "price": 17.50,
+        "isInStock": false
+      },
+      {
+        "name": "corector",
+        "price": 69,
+        "isInStock": true
+      }
+    ]
+  },
+  {
+    "capacity": 10,
+    "isPaid": false,
+    "products": [
+      {
+        "name": "blugi",
+        "price": 120.50,
+        "isInStock": true
+      },
+      {
+        "name": "tricou",
+        "price": 25.0,
+        "isInStock": true
+      },
+      {
+        "name": "maieu",
+        "price": 15.0,
+        "isInStock": true
+      }
+    ]
+  }
+]

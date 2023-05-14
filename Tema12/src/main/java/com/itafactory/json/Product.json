@@ -1,0 +1,42 @@
+[
+  {
+    "name": "sampon",
+    "price": 20.50,
+    "isInStock": true
+  },
+  {
+    "name": "balsam",
+    "price": 10.20,
+    "isInStock": true
+  },
+  {
+    "name": "oja",
+    "price": 15.0,
+    "isInStock": true
+  },
+  {
+    "name": "rimel",
+    "price": 35.0,
+    "isInStock": false
+  },
+  {
+    "name": "fond de ten",
+    "price": 75,
+    "isInStock": true
+  },
+  {
+    "name": "fond de ten",
+    "price": 75,
+    "isInStock": true
+  },
+  {
+    "name": "creion contur",
+    "price": 17.50,
+    "isInStock": false
+  },
+  {
+    "name": "corector",
+    "price": 69,
+    "isInStock": true
+  }
+]
